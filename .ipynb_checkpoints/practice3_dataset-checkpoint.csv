@@ -1,0 +1,11 @@
+customer_id, gender, age, city, category, sub_category, price,quantity
+1001,M,25,London,T-Shirts,Plain,10.99,2
+1002,F,35,New York,Jeans,Skinny,49.99,1
+1003,F,28,San Francisco,Dresses,Maxi,99.99,1
+1004,M,22,Paris,Suits,Formal,199.99,1
+1005,F,45,Boston,Tops,Blouse,29.99,2
+1006,F,50,Melbourne,Dresses,Party,149.99,1
+1007,M,40,San Francisco,Jeans,Straight,79.99,1
+1008,F,35,London,T-Shirts,Graphic,19.99,3
+1009,M,30,New York,Trousers,Chinos,59.99,1
+1010,M,27,Paris,Tops,T-Shirt,14.99,2

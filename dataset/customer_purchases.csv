@@ -1,0 +1,9 @@
+Customer ID,Age,Gender,Income ($),Product Category,Purchase Date,Purchase Amount ($)
+1,30,Male,50000,Electronics,44566,1000
+1,30,Male,50000,Clothing,44602,500
+2,45,Female,80000,Clothing,44581,750
+2,45,Female,80000,Home Goods,44607,1500
+3,25,Female,35000,Electronics,44571,800
+3,25,Female,35000,Electronics,44621,1200
+4,50,Male,100000,Home Goods,44597,2000
+4,50,Male,100000,Clothing,44630,1000
